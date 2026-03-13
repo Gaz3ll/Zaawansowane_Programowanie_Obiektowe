@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.UIManager;
 
-public class ZadanieDoWykonania {
+public class MainFrame {
     private JFrame frame;
     private static final String DIR_PATH = "src/files"; // Ścieżka do katalogu z plikami
     private final int liczbaWyrazowStatystyki;

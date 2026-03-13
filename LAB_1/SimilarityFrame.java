@@ -12,7 +12,7 @@ import javax.swing.*;
 import java.util.stream.Stream;
 
 
-public class ZadanieDodatkowe {
+public class SimilarityFrame {
     private JFrame frame;
     private static final String DIR_PATH = "src/files"; // Tu leżą pliki
     private static final Path MASTER_FILE = Paths.get("src/files/wzorzec.txt"); // To jest wzorzec
