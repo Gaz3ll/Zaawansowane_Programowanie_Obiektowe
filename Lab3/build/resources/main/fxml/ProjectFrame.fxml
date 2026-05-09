@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.project.controller.ProjectController">
+    <top>
+        <HBox alignment="CENTER_LEFT" spacing="10.0" BorderPane.alignment="CENTER">
+            <padding>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </padding>
+            <children>
+                <Label text="Wyszukaj:" />
+                <TextField fx:id="txtSzukaj" promptText="Nazwa, data lub ID..." prefWidth="200.0" />
+                <Button mnemonicParsing="false" onAction="#onActionBtnSzukaj" text="Szukaj" />
+                <Region HBox.hgrow="ALWAYS" />
+                <Button mnemonicParsing="false" onAction="#onActionBtnDodaj" text="Dodaj projekt" />
+            </children>
+        </HBox>
+    </top>
+    <center>
+        <TableView fx:id="tblProjekt" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <columns>
+                <TableColumn fx:id="colId" prefWidth="50.0" text="ID" />
+                <TableColumn fx:id="colNazwa" prefWidth="150.0" text="Nazwa" />
+                <TableColumn fx:id="colOpis" prefWidth="300.0" text="Opis" />
+                <TableColumn fx:id="colDataCzasUtworzenia" prefWidth="150.0" text="Utworzono" />
+                <TableColumn fx:id="colDataOddania" prefWidth="100.0" text="Termin" />
+            </columns>
+            <BorderPane.margin>
+                <Insets left="10.0" right="10.0" />
+            </BorderPane.margin>
+        </TableView>
+    </center>
+    <bottom>
+        <HBox alignment="CENTER" spacing="10.0" BorderPane.alignment="CENTER">
+            <padding>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </padding>
+            <children>
+                <Button fx:id="btnPierwsza" mnemonicParsing="false" onAction="#onActionBtnPierwsza" text="&#x2759;&#x25C4;" />
+                <Button fx:id="btnWstecz" mnemonicParsing="false" onAction="#onActionBtnWstecz" text="&#x25C4;" />
+                <Label text="Rozmiar strony:" />
+                <ChoiceBox fx:id="cbPageSizes" prefWidth="60.0" />
+                <Button fx:id="btnDalej" mnemonicParsing="false" onAction="#onActionBtnDalej" text="&#x25BA;" />
+                <Button fx:id="btnOstatnia" mnemonicParsing="false" onAction="#onActionBtnOstatnia" text="&#x25BA;&#x2759;" />
+            </children>
+        </HBox>
+    </bottom>
+</BorderPane>

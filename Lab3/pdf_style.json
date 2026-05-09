@@ -1,0 +1,940 @@
+[
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Politechnika Bydgoska im. J. J. Śniadeckich"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Wydział Telekomunikacji,"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Informatyki i"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Elektrotechniki"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Przedmiot"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Zaawansowane Programowanie Obiektowe"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Prowadzący"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "dr inż. Damian Szczegielniak"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Temat"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "I IMPLEMENTACJA WALIDATORA DANYCH Z"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "WYKORZYSTANIEM ADNOTACJI, REFLEKSJI I WZORCA"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "STRATEGIA"
+  },
+  {
+    "page": 1,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Student"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Wiktor Leśniewski"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Nr ćw."
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "2"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Data wykonania"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "13.03.2026"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Ocena"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Data oddania spr."
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "17.04.2026"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Opis problemu do rozwiązania:"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Celem zadania było opracowanie uniwersalnego mechanizmu walidacji danych wejściowych"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "w języku Java. Kluczowym założeniem było uniknięcie pisania dedykowanego kodu"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "sprawdzającego dla każdej klasy z osobna. Rozwiązanie oparto na:"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Adnotacjach: służących do deklaratywnego definiowania reguł na polach klas (np."
+  },
+  {
+    "page": 1,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "@NotNull"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ","
+  },
+  {
+    "page": 1,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "@Size"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ","
+  },
+  {
+    "page": 1,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "@Email"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ")."
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Refleksji (Java Reflection API): pozwalającej na dynamiczny odczyt struktury klas, wartości"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "pól oraz przypisanych do nich adnotacji w czasie wykonania programu."
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Wzorcu Strategia: oddzielającym logikę poszczególnych reguł walidacyjnych od głównego"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "silnika walidatora, co zapewnia łatwą rozszerzalność systemu."
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "W projekcie zaimplementowano następujące komponenty:"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Własne adnotacje: Zdefiniowano zestaw adnotacji z czasem retencji"
+  },
+  {
+    "page": 1,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "RUNTIME"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ", co umożliwia"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "ich odczyt przez refleksję. Adnotacje takie jak"
+  },
+  {
+    "page": 1,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "@Size"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "czy"
+  },
+  {
+    "page": 1,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "@NotNull"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "posiadają domyślne"
+  },
+  {
+    "page": 1,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "komunikaty błędów, które mogą być nadpisywane przez programistę."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Interfejs ValidationStrategy: Definiuje on wspólną metodę"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "validate(Field field,"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Object value)"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ", która zwraca"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Optional<String>"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "z opisem błędu w przypadku"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "niespełnienia reguły."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Mechanizm Automatycznego Wiązania (Zadanie dodatkowe): Wykorzystano autorską"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "adnotację"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "@ValidationFor"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ", która pozwala fabryce"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "ValidationStrategyFactory"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "automatycznie mapować konkretną strategię na"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "odpowiadającą jej adnotację. Eliminuje to konieczność stosowania rozbudowanych"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "instrukcji"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "if-else"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "w kodzie walidatora."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Główna klasa"
+  },
+  {
+    "page": 2,
+    "font": "Consolas-Bold",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Validator"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "realizuje następujący algorytm:"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "1."
+  },
+  {
+    "page": 2,
+    "font": "ArialMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Pobranie klasy obiektu i wszystkich jego pól (również prywatnych poprzez"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "setAccessible(true)"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ")."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "2."
+  },
+  {
+    "page": 2,
+    "font": "ArialMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Iteracja po polach i wykrywanie obecności adnotacji walidacyjnych."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "3."
+  },
+  {
+    "page": 2,
+    "font": "ArialMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Pobranie odpowiedniej strategii z fabryki na podstawie wykrytej adnotacji."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "4."
+  },
+  {
+    "page": 2,
+    "font": "ArialMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Wywołanie logiki walidacyjnej i zbieranie ewentualnych błędów do listy."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "5."
+  },
+  {
+    "page": 2,
+    "font": "ArialMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "W przypadku wykrycia nieprawidłowości, rzucenie niestandardowego wyjątku"
+  },
+  {
+    "page": 2,
+    "font": "Consolas",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "ValidationException"
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "zawierającego zbiorczy raport o błędach."
+  },
+  {
+    "page": 2,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Dla takiego kodu klasy Main.java:"
+  },
+  {
+    "page": 2,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 2,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Kod programu prezentuje następujące wyniki:"
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Po poprawieniu pól imię i email:"
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 3,
+    "font": "Aptos-Bold",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Zadanie Dodatkowe:"
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Celem zadania jest wyeliminowanie potrzeby jawnego deklarowania powiązań klas"
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "strategii z odpowiednimi adnotacjami walidacyjnymi. Na początku zdefiniuj adnotację"
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "ValidationFor, która pozwoli na oznaczenie klasy realizującej strategię walidacyjną i"
+  },
+  {
+    "page": 3,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "powiąże ją z dedykowaną adnotacją walidacyjną."
+  },
+  {
+    "page": 4,
+    "font": "Aptos",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Link do repo na GitHub:"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "https://github.com/Gaz3ll/Zaawansowane_Programowanie_Obiektowe"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": ""
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPS-BoldMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Wnioski:"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Realizacja zadania pozwoliła mi na zrozumienie potęgi mechanizmu refleksji w Javie, który"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "pozwala na tworzenie wysoce abstrakcyjnego i reużywalnego kodu. Wykorzystanie wzorca"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "Strategia w połączeniu z adnotacjami pozwoliło na stworzenie systemu, w którym dodanie"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "nowej reguły walidacyjnej ogranicza się do stworzenia nowej klasy i adnotacji, bez"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "modyfikacji istniejącego silnika walidującego. Zadanie dodatkowe z automatycznym"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "wiązaniem strategii pokazało, jak można zminimalizować \"boilerplate code\" w aplikacjach"
+  },
+  {
+    "page": 4,
+    "font": "TimesNewRomanPSMT",
+    "size": 12.0,
+    "color": "0x0",
+    "text": "typu Enterprise."
+  }
+]
