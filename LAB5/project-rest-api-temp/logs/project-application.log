@@ -1,0 +1,3 @@
+2026-05-22 13:35:57.575 [restartedMain] INFO  c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 17.0.19 with PID 16956 (D:\eclipse-2024-09\workspace\project-rest-api\build\classes\java\main started by wikto in D:\eclipse-2024-09\workspace\project-rest-api)
+2026-05-22 13:35:57.583 [restartedMain] INFO  c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-05-22 13:36:05.386 [restartedMain] INFO  c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 8.501 seconds (process running for 9.242)
